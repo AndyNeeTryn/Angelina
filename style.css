@@ -1,0 +1,16 @@
+#letgradangelina15 
+{font-size: 40px; 
+width: 300px; 
+height: 70px; 
+padding-top: 25px; 
+background: -webkit-linear-gradient(left, #333300, #333300, #AC83C4, #AC83C4); 
+-webkit-background-clip: text; 
+-webkit-text-fill-color: transparent; 
+position: relative; 
+z-index: 1;} 
+
+#letgradangelina16 {
+width:300px;
+height:123px;
+background:-webkit-linear-gradient(right, #333300, #333300, #AC83C4, #AC83C4);
+padding-top:1px;}
